@@ -7,6 +7,7 @@ using SQLite.Net.Attributes;
 
 namespace FormPushNotification
 {
+	//Comentario de Teste
 	[Table("User")]
 	public class User
 	{
