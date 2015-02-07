@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="iOS/FormPushNotification.iOS.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormPushNotification/Models/User.cs">
+    <Files>
+      <File FileName="FormPushNotification/UserGrid.xaml.cs" Line="1" Column="1" />
+      <File FileName="FormPushNotification/UserRepository.cs" Line="1" Column="1" />
+      <File FileName="FormPushNotification/obj/Debug/UserGrid.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="FormPushNotification/Models/User.cs" Line="2" Column="2" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid/FileAcessHelper.cs" Line="1" Column="1" />
+      <File FileName="FormPushNotification/UserGrid.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="FormPushNotification/UserGrid.xaml.cs" line="17" offsetX="566" offsetY="240" expression="App.UserRepo" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
