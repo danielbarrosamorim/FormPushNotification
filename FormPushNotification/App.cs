@@ -13,6 +13,11 @@ namespace FormPushNotification
 			UserRepo = new UserRepository(sqlitePlatform, dbPath);
 
 			this.MainPage = new UserGrid();
+
+
+			//
+			// Teste de alteração
+			//TODO: Adicionar PUSH
 		}
 	}
 }
