@@ -9,3 +9,14 @@
 /Users/daniel/Projects/FormPushNotification/FormPushNotification/bin/Debug/FormPushNotification.dll
 /Users/daniel/Projects/FormPushNotification/FormPushNotification/obj/Debug/FormPushNotification.dll
 /Users/daniel/Projects/FormPushNotification/FormPushNotification/obj/Debug/FormPushNotification.dll.mdb
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/FormPushNotification.UserGrid.xaml
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/UserGrid.xaml.g.cs
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/FormPushNotification.dll.mdb
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/FormPushNotification.dll
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/FormPushNotification.dll
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/FormPushNotification.dll.mdb
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/Xamarin.Forms.Core.dll
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/SQLite.Net.dll
+/Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/SQLite.Net.Async.dll
