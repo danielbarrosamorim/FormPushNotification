@@ -8,6 +8,11 @@ using SQLite.Net.Platform.XamarinIOS;
 
 namespace FormPushNotification.iOS
 {
+
+	public string DeviceToken { get; set; }
+
+
+
 	[Register ("AppDelegate")]
 	public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
 	{
