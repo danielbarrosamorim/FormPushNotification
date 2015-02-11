@@ -1,0 +1,16 @@
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Xml.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Xaml.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/SQLite.Net.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Core.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/SQLite.Net.Async.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/FormPushNotification.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/FormPushNotification.iOS.exe
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Mono.Dynamic.Interpreter.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/daniel/Desktop/SourceCode/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Runtime.Serialization.dll

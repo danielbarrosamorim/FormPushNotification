@@ -9,6 +9,7 @@
 /Users/daniel/Projects/FormPushNotification/FormPushNotification/bin/Debug/FormPushNotification.dll
 /Users/daniel/Projects/FormPushNotification/FormPushNotification/obj/Debug/FormPushNotification.dll
 /Users/daniel/Projects/FormPushNotification/FormPushNotification/obj/Debug/FormPushNotification.dll.mdb
+<<<<<<< Updated upstream
 /Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
 /Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/FormPushNotification.UserGrid.xaml
 /Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/obj/Debug/UserGrid.xaml.g.cs
@@ -20,3 +21,26 @@
 /Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/SQLite.Net.dll
 /Users/marcelo/GitHub/FormsPushNotification/FormPushNotification/bin/Debug/SQLite.Net.Async.dll
+=======
+/Users/daniel/Desktop/SourceCode/FormPushNotification/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/daniel/Desktop/SourceCode/FormPushNotification/obj/Debug/FormPushNotification.UserGrid.xaml
+/Users/daniel/Desktop/SourceCode/FormPushNotification/obj/Debug/UserGrid.xaml.g.cs
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/FormPushNotification.dll.mdb
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/FormPushNotification.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/obj/Debug/FormPushNotification.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/obj/Debug/FormPushNotification.dll.mdb
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/Xamarin.Forms.Core.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/SQLite.Net.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/SQLite.Net.Async.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/mscorlib.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Core.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Linq.Queryable.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Diagnostics.Tools.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Net.Primitives.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Net.Requests.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Net.NetworkInformation.dll
+/Users/daniel/Desktop/SourceCode/FormPushNotification/bin/Debug/System.Text.RegularExpressions.dll
+>>>>>>> Stashed changes
